@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <title>Multipulcation</title>
+    <style>
+        h1, h2, p, a {
+            font-family: verdana;
+        }
+        .link {
+            display: inline;
+            padding: 10px;
+        }
+    </style>
+</head><body>
+    <header>
+        <div>
+            <h1 class="title">EasyMath</h1>
+            <p class="subtitle">Math Tricks</p>
+            <hr>
+            <p class="link"><a href="math.html">Home</a></p><p class="link"><a href="add.html">Addition</a></p><p class="link"><a href="sub.html">Subtraction</a></p>
+            <p class="link"><a href="times.html">Multipulcation</a></p><p class="link"><a href="divide.html">Division</a></p>
+            
+            <hr>
+        </div></header>
+    <center>
+    <div>
+<h2>Multipulcation</h2>
+<p>This trick is just like addition and subtraction. Pleaase learn them before learning this trick.
+<br>
+One thing I want to say, this trick is not for decimals and a 2 digit number
+<br>
+multiplied by a 2 digit number.</p>
+        <h2>Example:</h2>
+        <h2>654 x 2</h2>
+        <hr>
+    <h2>1st step:</h2>
+    <h2>600 x 2 = 1,200</h2>
+    <hr>
+    <h2>2nd step:</h2>
+    <h2>50 x 2 = 100</h2>
+    <hr>
+    <h2>3rd step:</h2>
+    <h2>4 x 2 = 8</h2>
+    <hr>
+    <h2>Last step:</h2><h2>1,200 + 100 + 8 = 1,308</h2>
+    <h2>654 x 2 = 1,308</h2>
+        <img src="https://tlcms.org/wp-content/uploads/2020/06/You-Did-It.jpg" alt="you learned the multipulcation trick" height="300">
+</div>
+</center>
+
+    
+</body></html>

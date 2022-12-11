@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <title>EasyMath - Math Tricks</title>
+    <style>
+        h1, h2, p, a {
+            font-family: verdana;
+        }
+        .link {
+            display: inline;
+            padding: 10px;
+        }
+    </style>
+</head><body>
+    <header>
+        <div>
+            <h1 class="title">EasyMath</h1>
+            <p class="subtitle">Math Tricks</p>
+            <hr>
+            <p class="link"><a href="math.html">Home</a></p><p class="link"><a href="add.html">Addition</a></p><p class="link"><a href="sub.html">Subtraction</a></p>
+            <p class="link"><a href="times.html">Multipulcation</a></p><p class="link"><a href="divide.html">Division</a></p>
+            
+            <hr>
+        </div></header>
+    <center>
+            <div>
+                <h2>Home</h2>
+            <p>EasyMath - EasyMath teaches people how to solve math in no time! learn simple math
+            <br>
+            tricks with addition, subtraction, multipulcation, and division.</p>
+                <img src="https://thirdhour.org/wp-content/uploads/2018/09/you-got-this-meme1.jpg" alt="motivation">
+                <p>Math made easy with EasyMath.</p>
+        </div>
+    <hr><div>
+        <h2>Addition</h2>
+            <p>Let's take a simple equation, 53 + 39. to solve it much faster, take both your number's first place
+            <br>
+            value, for example, 53 + 39's first place values are 50 + 30.</p>
+    <h2>53 + 39 to 50 + 30</h2>
+    <p>Add them, for example, 50 + 30 = 80. Now take your number's second places and add them
+    <br>
+    like we did for our number's first place, for example, 53 + 39's second place values are 3 + 9 and that equals 12.</p>
+    <h2>53 + 39 to 3 + 9</h2>
+    <p>Now take all of your answers from all of your place value for example, we got 80 and 12,
+    <br>
+now we add them and that's your final answer.</p><h2>80 + 12 = 92</h2><h2>53 + 39 = 92</h2>
+    <p>Now let's try something a little different, try solving 125 + 45 with the knowlegde you learned in the last trick.
+<br>
+See how you did for the 2nd step you did 20 + 5 but in the 3rd step you
+thought you had to do
+    <br>
+    5 + 5, well for a 3rd digit number added by a 2 digit number, on the last step your just going to
+    <br>
+    add the last number in the 3 digit number.</p>
+    <h2>Example:</h2>
+    <h2>125 + 45</h2>
+    <hr>
+    <h2>1st step:</h2>
+    <h2>100 + 40 = 140</h2>
+    <hr>
+    <h2>2nd step:</h2>
+    <h2>20 + 5 = 25</h2>
+    <hr>
+    <h2>3rd step:</h2>
+    <h2>125's last number is 5</h2>
+    <hr>
+    <h2>Last step:</h2>
+    <h2>140 + 25 + 5 = 170</h2>
+    <h2>125 + 45 = 170</h2>
+    <img src="https://tlcms.org/wp-content/uploads/2020/06/You-Did-It.jpg" alt="you learned addition tricks!" height="300">
+</div>
+<hr>
+    <div>
+<h2>Subtraction</h2>
+        <p>To do subtarction faster, just do the addition trick but subtract. One modification I want to make, if you forget, always subtract
+        with the biggest number first. Make sure you learn the addition trick to do this one.</p><h2>Well this was very short</h2>
+    
+    </div>
+<hr>
+    <div>
+<h2>Multipulcation</h2>
+<p>This trick is just like addition and subtraction. Pleaase learn them before learning this trick.
+<br>
+One thing I want to say, this trick is not for decimals and a 2 digit number
+<br>
+multiplied by a 2 digit number.</p>
+        <h2>Example:</h2>
+        <h2>654 x 2</h2>
+        <hr>
+    <h2>1st step:</h2>
+    <h2>600 x 2 = 1,200</h2>
+    <hr>
+    <h2>2nd step:</h2>
+    <h2>50 x 2 = 100</h2>
+    <hr>
+    <h2>3rd step:</h2>
+    <h2>4 x 2 = 8</h2>
+    <hr>
+    <h2>Last step:</h2><h2>1,200 + 100 + 8 = 1,308</h2>
+    <h2>654 x 2 = 1,308</h2>
+        <img src="https://tlcms.org/wp-content/uploads/2020/06/You-Did-It.jpg" alt="you learned the multipulcation trick" height="300">
+</div><hr>
+    <div>
+<h2>Division</h2>
+        <p>To do division fast, just do the multipulcation trick but do division. This is not for decimals and a 2 digit number divided by a 2 digit number. Make sure you learn the multipulcation trick to do this one.</p>
+        <h2>Well this was very short</h2>
+    </div>
+</center>
+
+    
+</body></html>

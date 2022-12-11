@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <title>Division</title>
+    <style>
+        h1, h2, p, a {
+            font-family: verdana;
+        }
+        .link {
+            display: inline;
+            padding: 10px;
+        }
+    </style>
+</head><body>
+    <header>
+        <div>
+            <h1 class="title">EasyMath</h1>
+            <p class="subtitle">Math Tricks</p>
+            <hr>
+            <p class="link"><a href="math.html">Home</a></p><p class="link"><a href="add.html">Addition</a></p><p class="link"><a href="sub.html">Subtraction</a></p>
+            <p class="link"><a href="times.html">Multipulcation</a></p><p class="link"><a href="divide.html">Division</a></p>
+            
+            <hr>
+        </div></header>
+    <center>
+    <div>
+<h2>Division</h2>
+        <p>To do division fast, just do the multipulcation trick but do division. This is not for decimals and a 2 digit number divided by a 2 digit number. Make sure you learn the multipulcation trick to do this one.</p>
+        <h2>Well this was very short</h2>
+    </div>
+</center>
+
+    
+</body></html>

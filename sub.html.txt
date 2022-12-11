@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <title>Subtraction</title>
+    <style>
+        h1, h2, p, a {
+            font-family: verdana;
+        }
+        .link {
+            display: inline;
+            padding: 10px;
+        }
+    </style>
+</head><body>
+    <header>
+        <div>
+            <h1 class="title">EasyMath</h1>
+            <p class="subtitle">Math Tricks</p>
+            <hr>
+            <p class="link"><a href="math.html">Home</a></p><p class="link"><a href="add.html">Addition</a></p><p class="link"><a href="sub.html">Subtraction</a></p>
+            <p class="link"><a href="times.html">Multipulcation</a></p><p class="link"><a href="divide.html">Division</a></p>
+            
+            <hr>
+        </div></header>
+    <center>
+    <div>
+<h2>Subtraction</h2>
+        <p>To do subtarction faster, just do the addition trick but subtract. One modification I want to make, if you forget, always subtract
+        with the biggest number first. Make sure you learn the addition trick to do this one.</p><h2>Well this was very short</h2>
+    
+    </div>
+</center>
+
+    
+</body></html>
